@@ -1,0 +1,7 @@
+{
+  "users": [
+    { "id": 1, "name": "Leanne Grahan", "email": "Sincare@gmail", "phone": "1-77-300-900" },
+    { "id": 2, "name": "Evin Howel", "email": "Shonna@elissa.tv", "phone": "101-692-340-900" },
+    { "id": 3, "name": "Sakshi", "email": "saxenasakshi325@gmail.com", "phone": "1111" }
+  ]
+}
